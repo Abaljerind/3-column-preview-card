@@ -2,7 +2,12 @@
 module.exports = {
   content: ["index.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        deca: ["Lexend Deca"],
+        bigShoulders: ["Big Shoulders Display"],
+      },
+    },
   },
   plugins: [],
 };
