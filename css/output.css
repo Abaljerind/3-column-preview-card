@@ -615,6 +615,11 @@ video {
   background-color: hsl(184 100% 22% / var(--tw-bg-opacity));
 }
 
+.bg-darkCyan {
+  --tw-bg-opacity: 1;
+  background-color: hsl(179 100% 13% / var(--tw-bg-opacity));
+}
+
 .p-10 {
   padding: 2.5rem;
 }
@@ -677,6 +682,11 @@ video {
 .text-cyan {
   --tw-text-opacity: 1;
   color: hsl(184 100% 22% / var(--tw-text-opacity));
+}
+
+.text-darkCyan {
+  --tw-text-opacity: 1;
+  color: hsl(179 100% 13% / var(--tw-text-opacity));
 }
 
 .hover\:border:hover {
