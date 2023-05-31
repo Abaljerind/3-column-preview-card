@@ -897,4 +897,14 @@ video {
     padding-left: 3rem;
     padding-right: 3rem;
   }
+
+  .lg\:px-28 {
+    padding-left: 7rem;
+    padding-right: 7rem;
+  }
+
+  .lg\:px-96 {
+    padding-left: 24rem;
+    padding-right: 24rem;
+  }
 }
